@@ -1,0 +1,1 @@
+var json_TK_layer_6 = {"type":"FeatureCollection","name":"TK_layer_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nama":"TK YM Senden"},"geometry":{"type":"Point","coordinates":[110.236135301768087,-7.916482895887056]}}]}

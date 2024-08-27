@@ -1,0 +1,1 @@
+var json_Dukuh_9 = {"type":"FeatureCollection","name":"Dukuh_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nama":"Dukuh Senden"},"geometry":{"type":"Point","coordinates":[110.23778080892977,-7.917982672725559]}}]}

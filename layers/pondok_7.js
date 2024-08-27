@@ -1,0 +1,1 @@
+var json_pondok_7 = {"type":"FeatureCollection","name":"pondok_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nama":"Pondok Pesantren Raudlatul Anwar"},"geometry":{"type":"Point","coordinates":[110.235511947824662,-7.916852371401086]}}]}
